@@ -5,3 +5,8 @@ except NameError:
 x=1
 y=1
 print(x+y)
+
+#result
+
+viji
+2
