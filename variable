@@ -1,0 +1,4 @@
+greeting_message = "Welcome to Codecademy!"
+todays_date= 4
+print (greeting_message)
+print(todays_date)
