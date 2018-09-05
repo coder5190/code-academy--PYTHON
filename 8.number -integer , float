@@ -1,0 +1,7 @@
+mango = 10
+price_per_mango = 3.25
+
+total_cost = mango * price_per_mango
+print total_cost
+
+#32.5
