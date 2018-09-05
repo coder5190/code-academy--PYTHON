@@ -1,0 +1,4 @@
+product = 8888*3333
+print product
+remainder = 1398 % 11
+print remainder
