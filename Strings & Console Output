@@ -1,0 +1,9 @@
+my_string = "viji"
+print len(my_string)
+print my_string.upper()
+print "%s" % (my_string)
+
+
+#4
+VIJI
+viji
