@@ -1,0 +1,16 @@
+answer=raw_input("Enter left or right:")
+
+
+if answer == "right":
+    print "This is the Verbal Abuse Room, you heap of parrot droppings!"
+else:
+ print "poda"
+# Will the above print statement print to the console?
+# Set response to 'Y' if you think so, and 'N' if you think not.
+
+
+
+
+
+#Enter left or right:right
+This is the Verbal Abuse Room, you heap of parrot droppings!
