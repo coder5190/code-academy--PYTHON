@@ -1,0 +1,17 @@
+bool_one = 3!=3 or not 5>=1 and 4==4
+print bool_one
+bool_two = 3!=1 and not 5>=1 or 4==4
+print bool_two
+bool_three = 3==3 and not (3!=3 or 5<=2)
+print bool_three
+bool_four = not not 4==4 or 3!=3 and not 3==3
+print bool_four
+bool_five = 6!=6 or not (5>=2 and 6<= 10)
+print bool_five
+
+
+#False
+True
+True
+True
+False
