@@ -1,0 +1,10 @@
+A = float(raw_input("Enter the value:"))
+def one(A):
+  B= 8*A
+  print "value is %d" % (B)
+  
+one(A)
+
+
+#Enter the value:2
+value is 16
