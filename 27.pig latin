@@ -1,0 +1,15 @@
+pyg ='ay'
+original =raw_input("Enter the word :")
+if len(original)>0 and original.isalpha():
+  word =original.upper()
+  first = word[0]
+  newword= word +first +pyg
+  newword1 = newword[1:len(newword)]
+  newword2 = newword1.upper()
+  print newword2
+  else:
+   print'empty'
+   
+   
+   #Enter the word :cat
+ATCAY
