@@ -1,0 +1,14 @@
+A = float(raw_input("Enter the value:"))
+def one(A):
+ return A+1 
+def second(A):
+  return one(A)+2
+print one(A)
+print second(A)
+   
+   
+   
+   
+#Enter the value:7
+#8.0
+#10.0
