@@ -1,0 +1,6 @@
+N = float(raw_input("Enter the number : "))
+import math
+print math.sqrt(N)
+
+#Enter the number : 5
+#2.2360679775
