@@ -9,3 +9,6 @@ del zoo_animals['Bengal Tiger']
 zoo_animals['Rockhopper Penguin'] = 'seashore'
 # Removing the 'Unicorn' entry. (Unicorns are incredibly expensive.)
 del zoo_animals['Unicorn']
+
+
+#{'Atlantic Puffin': 'Arctic Exhibit', 'Rockhopper Penguin': 'seashore'}
