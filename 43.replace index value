@@ -1,0 +1,16 @@
+zoo_animals = ["pangolin", "cassowary", "sloth", "tiger"]
+# Last night our zoo's sloth brutally attacked 
+# the poor tiger and ate it whole.
+
+# The ferocious sloth has been replaced by a friendly hyena.
+zoo_animals[2] = "hyena"
+print "relplaced animal for sloth is " + zoo_animals[2]
+# What shall fill the void left by our dear departed tiger?
+# Your code here!
+zoo_animals[3] = "lion"
+print "replaced animal for tiger is " + zoo_animals[3]
+print zoo_animals
+
+#relplaced animal for sloth is hyena
+#replaced animal for tiger is lion
+#['pangolin', 'cassowary', 'hyena', 'lion']
