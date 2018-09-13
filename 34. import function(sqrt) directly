@@ -1,0 +1,8 @@
+N= float(raw_input("Enter the number:"))
+from math import sqrt
+
+print sqrt(N)
+
+
+#Enter the number:8
+#2.82842712475
