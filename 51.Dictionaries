@@ -1,0 +1,20 @@
+menu = {} # Empty dictionary
+menu['Chicken Alfredo'] = 14.50 
+print menu['Chicken Alfredo']
+menu['Briyani'] = 16.30
+print menu['Briyani']
+menu['Parota'] =  20.00
+print menu['Parota']
+menu['Chapathi'] = 50.20
+print menu['Chapathi']
+print "There are " + str(len(menu)) + " items on the menu."
+print menu
+
+
+
+#14.5
+#16.3
+#20.0
+#50.2
+#There are 4 items on the menu.
+#{'Chicken Alfredo': 14.5, 'Briyani': 16.3, 'Chapathi': 50.2, 'Parota': 20.0}
