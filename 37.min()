@@ -1,0 +1,6 @@
+minimum = min(5,2.1,-2,9,4)
+
+print minimum
+
+
+#2
