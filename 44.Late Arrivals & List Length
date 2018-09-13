@@ -1,0 +1,17 @@
+suitcase = [] 
+suitcase.append("sunglasses")
+
+# Your code here!
+suitcase.append("towel")
+suitcase.append("passport")
+suitcase.append("sunscreen lotion")
+
+
+list_length = len(suitcase)
+
+print "There are %d items in the suitcase." % (list_length)
+print suitcase
+
+
+#There are 4 items in the suitcase.
+['sunglasses', 'towel', 'passport', 'sunscreen lotion']
