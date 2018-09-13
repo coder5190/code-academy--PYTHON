@@ -1,0 +1,10 @@
+animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
+print animals.index("duck")
+animals.insert(2,"cobra")
+print animals.index("emu")
+animals.insert(4,"dog")
+print animals 
+
+#2
+#4
+#['aardvark', 'badger', 'cobra', 'duck', 'dog', 'emu', 'fennec fox']
