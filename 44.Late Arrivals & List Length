@@ -14,4 +14,4 @@ print suitcase
 
 
 #There are 4 items in the suitcase.
-['sunglasses', 'towel', 'passport', 'sunscreen lotion']
+#['sunglasses', 'towel', 'passport', 'sunscreen lotion']
