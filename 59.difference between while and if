@@ -1,0 +1,19 @@
+count = 0
+
+if count < 5:
+  print "Hello, I am an if statement and count is", count
+
+while count < 5:
+  print "Hello, I am a while and count is", count
+  count += 1
+  
+  
+  
+  
+#result
+Hello, I am an if statement and count is 0
+Hello, I am a while and count is 0
+Hello, I am a while and count is 1
+Hello, I am a while and count is 2
+Hello, I am a while and count is 3
+Hello, I am a while and count is 4
