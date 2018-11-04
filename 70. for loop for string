@@ -1,0 +1,14 @@
+thing = "spam!"
+
+for c in thing:
+  print c
+
+word = "eggs!"
+
+
+#Result
+s
+p
+a
+m
+!
