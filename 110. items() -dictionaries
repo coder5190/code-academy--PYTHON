@@ -1,0 +1,12 @@
+my_dict ={
+  "sports":"running",
+  "winner":"Ana",
+  "place" :"first",
+  
+}
+print my_dict.items()
+
+
+
+#result
+[('winner', 'Ana'), ('place', 'first'), ('sports', 'running')]
