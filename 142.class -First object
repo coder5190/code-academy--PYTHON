@@ -1,0 +1,10 @@
+class Animal(object):
+  def __init__(self,name):
+    self.name =  name
+zebra = Animal("Pappaya")
+print zebra.name
+
+
+
+#result
+Pappaya
