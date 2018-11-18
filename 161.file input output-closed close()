@@ -1,0 +1,9 @@
+with open ("text.txt","w") as my_file:
+  my_file.write("myworld")
+
+  
+  
+print my_file.closed
+
+#result:
+True
